@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "zenn-contents",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "homepage": "https://zenn.dev/rizzzse",
+  "dependencies": {
+    "zenn-cli": "^0.1.98"
+  }
+}
