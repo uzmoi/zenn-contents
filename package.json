@@ -8,6 +8,8 @@
   },
   "homepage": "https://zenn.dev/rizzzse",
   "dependencies": {
+    "textlint": "^12.1.1",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
     "zenn-cli": "^0.1.98"
   }
 }
